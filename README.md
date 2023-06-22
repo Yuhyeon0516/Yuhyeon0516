@@ -16,13 +16,12 @@
   </div>
 </div>
 
-#
 <div align="center">
   <h2>✅ My Work Experience ✅</h2>
   <img height=70 src="https://img.shields.io/badge/2014.11.01 ~ 2023.05.15-fff?style=social&logo=samsung&logoColor=1428A0"/>
 </div>
 
-#
+
 <div align="center">
   <h2>🛠️ My Tech Stack 🛠️</h2>
   <img src="https://img.shields.io/badge/Swift-white?style=flat&logo=swift&logoColor=F05138"/>
