@@ -7,6 +7,7 @@
     프로그래밍은 제 인생에서 두 번째로 중요한 부분이며, 지금은 그것이 제 직업이 될 수 있도록 노력하고 있습니다.<br>
     제 Github 계정을 통해 제가 진행한 프로젝트와 사용하는 기술 스택의 수준을 확인하실 수 있습니다.
   </div>
+  <br>
   <div>
     Hello, my name is Kim Yuhyeon. Currently, I am working as a frontend developer and app developer.<br>
     In web development, I utilize HTML, CSS, JavaScript, React, and TypeScript to build projects.<br>
