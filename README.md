@@ -37,6 +37,8 @@
   <img src="https://img.shields.io/badge/TypeScript-rgb(70,50,50)?style=flat&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/Redux-rgb(50,50,50)?style=flat&logo=redux&logoColor=764ABC"/>
   <img src="https://img.shields.io/badge/MobX-FF6F00?style=flat&logo=nodedotjs&logoColor=339933"/><br>
+  <img src="https://img.shields.io/badge/Dart-rgb(50,50,100)?style=flat&logo=dart&logoColor=0175C2"/>
+  <img src="https://img.shields.io/badge/Flutter-rgb(150,100,50)?style=flat&logo=flutter&logoColor=02569B"/><br>
   <img src="https://img.shields.io/badge/GitHub-rgb(100,100,100)?style=flat&logo=github&logoColor=181717"/>
   <img src="https://img.shields.io/badge/Notion-rgb(200,200,200)?style=flat&logo=notion&logoColor=000000"/>
 </div>
