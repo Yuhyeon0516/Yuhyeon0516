@@ -46,6 +46,6 @@
 #
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuhyeon0516&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yuhyeon0516&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuhyeon0516&layout=compact&theme=tokyonight)
 </div>
