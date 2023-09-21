@@ -1,53 +1,36 @@
-<div align="center">
-  <h2>👉 Me 👈</h2>
-  <div>
-    안녕하세요. 저는 김유현이라고 합니다. 현재 프론트엔드 개발자 또는 앱 개발자로 활동 중입니다.<br>
-    웹 개발에서는 HTML, CSS, JavaScript, React, TypeScript를 사용하여 프로젝트를 개발하고 있으며,<br>
-    앱 개발에서는 Swift를 사용하여 iOS 앱을 개발하고 있습니다.<br>
-    프로그래밍은 제 인생에서 두 번째로 중요한 부분이며, 지금은 그것이 제 직업이 될 수 있도록 노력하고 있습니다.<br>
-    제 Github 계정을 통해 제가 진행한 프로젝트와 사용하는 기술 스택의 수준을 확인하실 수 있습니다.
-  </div>
-  <br>
-  <div>
-    Hello, my name is Kim Yuhyeon. Currently, I am working as a frontend developer and app developer.<br>
-    In web development, I utilize HTML, CSS, JavaScript, React, and TypeScript to build projects.<br>
-    For app development, I use Swift to develop iOS applications.<br>
-    Programming holds the second most significant role in my life, and I am dedicated to making it my profession.<br>
-    You can explore my GitHub account to assess the projects I have worked on and the level of my technical skills.
-  </div>
-</div>
 
-<div align="center">
-  <h2>✅ My Work Experience ✅</h2>
-  <img height=70 src="https://img.shields.io/badge/2014.11.01 ~ 2023.05.15-fff?style=social&logo=samsung&logoColor=1428A0"/>
-  <br/>
-  삼성전자 Memory Photo Technology Team. 생산 설비 Software 유지보수 및 설비 Data 시각화
-</div>
-
-
-<div align="center">
-  <h2>🛠️ My Tech Stack 🛠️</h2>
-  <img src="https://img.shields.io/badge/Swift-white?style=flat&logo=swift&logoColor=F05138"/>
-  <img src="https://img.shields.io/badge/Python-rgb(0,30,70)?style=flat&logo=python&logoColor=3776AB"/><br>
-  <img src="https://img.shields.io/badge/HTML5-rgb(150,150,250)?style=flat&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-rgb(100,150,0)?style=flat&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/JavaScript-rgb(100,100,0)?style=flat&logo=javascript&logoColor=F7DF1E"/><br>
-  <img src="https://img.shields.io/badge/Node.js-EE4C2C?style=flat&logo=nodedotjs&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/Next.js-rgb(100,100,100)?style=flat&logo=nextdotjs&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/GraphQL-rgb(0,30,100)?style=flat&logo=graphql&logoColor=E10098"/><br>
-  <img src="https://img.shields.io/badge/React-rgb(0,0,0)?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-rgb(70,50,50)?style=flat&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/Redux-rgb(50,50,50)?style=flat&logo=redux&logoColor=764ABC"/>
-  <img src="https://img.shields.io/badge/MobX-FF6F00?style=flat&logo=nodedotjs&logoColor=339933"/><br>
-  <img src="https://img.shields.io/badge/Dart-rgb(50,50,100)?style=flat&logo=dart&logoColor=0175C2"/>
-  <img src="https://img.shields.io/badge/Flutter-rgb(150,100,50)?style=flat&logo=flutter&logoColor=02569B"/><br>
-  <img src="https://img.shields.io/badge/GitHub-rgb(100,100,100)?style=flat&logo=github&logoColor=181717"/>
-  <img src="https://img.shields.io/badge/Notion-rgb(200,200,200)?style=flat&logo=notion&logoColor=000000"/>
-</div>
-
-#
-<div align="center">
+Hi, I'm yuhyeon kim.  
+I'm currently trying to become full-stack developer.  
+I use React, React Native and Flutter in Front-end and back-end mainly use Django.  
+If you have any other inquiries, please email `rladbgus0516@naver.com`.  
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yuhyeon0516&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuhyeon0516&layout=compact&theme=tokyonight)
+
+
+# My Work Experience
+<div>
+  <img src="https://i.namu.wiki/i/xmRn4wehsWuOOF2OCybuHDuSXg_rgz_OhtwFslgCf-M3NxsTtEIyiW6l2yiQqFlcrkMj0_PufG2rN6skotiEZXd61hXujvShHdZhMOhNhJbB8Ai1H9_xOEfw2B_SaPJu4O2NH2jGd31QITl-OhpzlA.svg" />
+  <h3>Samsung Electronics (2014.11.01 ~ 2023.05.15)</h3>
+  - 삼성전자 Memory Photo Technology Team. 생산 설비 Software 유지보수 및 설비 Data 시각화
+</div>
+
+<div>
+  <h1>My Tech</h1>
+  <img src="https://img.shields.io/badge/Swift-white?style=flat&logo=swift&logoColor=F05138"/>
+  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Django-white?style=flat&logo=django&logoColor=092E20"/>
+  <img src="https://img.shields.io/badge/Node.js-white?style=flat&logo=nodedotjs&logoColor=339933"/><br>
+  <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript&logoColor=3178C6"/><br>
+  <img src="https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React Native-rgb(255,255,255)?style=flat&logo=react&logoColor=9F32A5"/>
+  <img src="https://img.shields.io/badge/Redux-white?style=flat&logo=redux&logoColor=764ABC"/>
+  <img src="https://img.shields.io/badge/React Query-white?style=flat&logo=reactquery&logoColor=FF4154"/><br>
+  <img src="https://img.shields.io/badge/Dart-white?style=flat&logo=dart&logoColor=0175C2"/>
+  <img src="https://img.shields.io/badge/Flutter-white?style=flat&logo=flutter&logoColor=02569B"/>
+  <img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=181717"/>
+  <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=notion&logoColor=000000"/>
 </div>
