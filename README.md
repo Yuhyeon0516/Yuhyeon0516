@@ -11,8 +11,13 @@ If you have any other inquiries, please email `rladbgus0516@naver.com`.
 # My Work Experience
 <div>
   <img src="https://i.namu.wiki/i/xmRn4wehsWuOOF2OCybuHDuSXg_rgz_OhtwFslgCf-M3NxsTtEIyiW6l2yiQqFlcrkMj0_PufG2rN6skotiEZXd61hXujvShHdZhMOhNhJbB8Ai1H9_xOEfw2B_SaPJu4O2NH2jGd31QITl-OhpzlA.svg" />
-  <h3>Samsung Electronics (2014.11.01 ~ 2023.05.15)</h3>
+  <h3>Samsung Electronics ( 2014.11.01 ~ 2023.05.15 )</h3>
   - 삼성전자 Memory Photo Technology Team. 생산 설비 Software 유지보수 및 설비 Data 시각화
+  <br/><br/>
+
+  <img width=200 src="https://github.com/Yuhyeon0516/Yuhyeon0516/assets/120432007/69d1cd0d-d0e4-40c4-a2f9-ba188768061c" />
+  <h3>야, 해줘[Instead of me] ( 2023.10.12 ~ )</h3>
+  - Software 개발, 유지보수 외주사 Instead of me CEO
 </div>
 
 <div>
