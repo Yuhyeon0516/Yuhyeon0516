@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuhyeon0516%2Fhit-counter&count_bg=%23003372&title_bg=%230A70E7&icon=iconify.svg&icon_color=%23FFFFFF&title=Checked&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Hi, I'm yuhyeon kim.  
 I'm currently trying to become full-stack developer.  
