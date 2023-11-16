@@ -18,7 +18,7 @@ If you have any other inquiries, please email `rladbgus0516@naver.com`.
 
   <img width=200 src="https://github.com/Yuhyeon0516/Yuhyeon0516/assets/120432007/69d1cd0d-d0e4-40c4-a2f9-ba188768061c" />
   <h3>야, 해줘[Instead of me] ( 2023.10.12 ~ )</h3>
-  - Software 개발, 유지보수 외주사 Instead of me CEO
+  - CEO of Instead of me(Software Development Agency)
 </div>
 
 <div>
