@@ -12,14 +12,14 @@ If you have any other inquiries, please email `rladbgus0516@naver.com`.
 # My Work Experience
 <div>
   
-  ![6EKHCc1w2kARLIpiOJl8o-X5mt5QdNryaDyoTlqKvLiUqMrasCWwyxyJI5usa3VBScKdAvA3vdqm1jRcow-kMUbn19ZjD5tzGq39AbfQjmKdm8p_0syVk6wUfYYXgzguR7d4PLKF51UkXNVPtKAERA](https://github.com/Yuhyeon0516/Yuhyeon0516/assets/120432007/0e5d0ac0-fc17-4801-b8da-2e5d255c71a1)
+  <img width=500 src="https://github.com/Yuhyeon0516/Yuhyeon0516/assets/120432007/0e5d0ac0-fc17-4801-b8da-2e5d255c71a1" />
 
-  <h3>Samsung Electronics ( 2014.11.01 ~ 2023.05.15 )</h3>
+  <h2>Samsung Electronics ( 2014.11.01 ~ 2023.05.15 )</h3>
   - 삼성전자 Memory Photo Technology Team. 생산 설비 Software 유지보수 및 설비 Data 시각화
   <br/><br/>
 
-  <img width=200 src="https://github.com/Yuhyeon0516/Yuhyeon0516/assets/120432007/a3017913-c299-43ea-b5c5-18e6641242e8" />
-  <h3>야, 해줘[Instead of me] ( 2023.10.12 ~ )</h3>
+  <img width=250 src="https://github.com/Yuhyeon0516/Yuhyeon0516/assets/120432007/a3017913-c299-43ea-b5c5-18e6641242e8" />
+  <h2>Instead of me ( 2023.10.12 ~ )</h3>
   - Co-Founder of Instead of me(Software Development Agency)
 </div>
 
