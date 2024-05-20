@@ -30,6 +30,7 @@ If you have any other inquiries, please email `rladbgus0516@naver.com`.
   <img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-white?style=flat&logo=typescript&logoColor=3178C6"/><br>
   <img src="https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/NextJS-white?style=flat&logo=nextdotjs&logoColor=000000"/>
   <img src="https://img.shields.io/badge/React Native-rgb(255,255,255)?style=flat&logo=react&logoColor=9F32A5"/>
   <img src="https://img.shields.io/badge/NestJS-white?style=flat&logo=nestjs&logoColor=E0234E"/>
   <img src="https://img.shields.io/badge/Express-white?style=flat&logo=express&logoColor=000000"/><br/>
@@ -38,10 +39,12 @@ If you have any other inquiries, please email `rladbgus0516@naver.com`.
   <img src="https://img.shields.io/badge/React Query-white?style=flat&logo=reactquery&logoColor=FF4154"/><br/>
   <img src="https://img.shields.io/badge/Amazon AWS-white?style=flat&logo=amazonaws&logoColor=232F3E"/>
   <img src="https://img.shields.io/badge/Amazon S3-white?style=flat&logo=amazons3&logoColor=569A31"/>
-  <img src="https://img.shields.io/badge/Amazon RDS-white?style=flat&logo=amazonrds&logoColor=527FFF"/><br/>
-  <img src="https://img.shields.io/badge/Amazon EC2-white?style=flat&logo=amazonec2&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Amazon RDS-white?style=flat&logo=amazonrds&logoColor=527FFF"/>
+  <img src="https://img.shields.io/badge/Amazon EC2-white?style=flat&logo=amazonec2&logoColor=FF9900"/><br/>
   <img src="https://img.shields.io/badge/Amazon ECS-white?style=flat&logo=amazonecs&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Amazon EKS-white?style=flat&logo=amazoneks&logoColor=FF9900"/><br/>
+  <img src="https://img.shields.io/badge/Amazon EKS-white?style=flat&logo=amazoneks&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Kubernetes-white?style=flat&logo=kubernetes&logoColor=326CE5"/><br/>
   <img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=181717"/>
   <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=notion&logoColor=000000"/>
   <img src="https://img.shields.io/badge/NodeJS-white?style=flat&logo=nodedotjs&logoColor=339933"/>
