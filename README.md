@@ -34,9 +34,8 @@ If you have any other inquiries, please email `rladbgus0516@naver.com`.
   <img src="https://img.shields.io/badge/React Native-rgb(255,255,255)?style=flat&logo=react&logoColor=9F32A5"/>
   <img src="https://img.shields.io/badge/NestJS-white?style=flat&logo=nestjs&logoColor=E0234E"/>
   <img src="https://img.shields.io/badge/Express-white?style=flat&logo=express&logoColor=000000"/><br/>
-  <img src="https://img.shields.io/badge/Redux-white?style=flat&logo=redux&logoColor=764ABC"/>
-  <img src="https://img.shields.io/badge/Recoil-white?style=flat&logo=recoil&logoColor=3578E5"/>
-  <img src="https://img.shields.io/badge/React Query-white?style=flat&logo=reactquery&logoColor=FF4154"/><br/>
+  <img src="https://img.shields.io/badge/Dart-white?style=flat&logo=dart&logoColor=0175C2"/>
+  <img src="https://img.shields.io/badge/Flutter-white?style=flat&logo=flutter&logoColor=02569B"/><br/>
   <img src="https://img.shields.io/badge/Amazon AWS-white?style=flat&logo=amazonaws&logoColor=232F3E"/>
   <img src="https://img.shields.io/badge/Amazon S3-white?style=flat&logo=amazons3&logoColor=569A31"/>
   <img src="https://img.shields.io/badge/Amazon RDS-white?style=flat&logo=amazonrds&logoColor=527FFF"/>
