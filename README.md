@@ -2,7 +2,7 @@
 
 Hi, I'm yuhyeon kim.  
 I'm currently trying to become full-stack developer.  
-I use React, React Native in Front-end and back-end mainly use NestJS.  
+I use React, React Native, Flutter in Front-end and back-end mainly use NestJS.  
 If you have any other inquiries, please email `rladbgus0516@naver.com`.  
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yuhyeon0516&show_icons=true&theme=tokyonight)
