@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuhyeon0516%2Fhit-counter&count_bg=%23003372&title_bg=%230A70E7&icon=iconify.svg&icon_color=%23FFFFFF&title=Checked&edge_flat=false)](https://hits.seeyoufarm.com)
-
 Hi, I'm yuhyeon kim.  
 I'm currently trying to become full-stack developer.  
 I use React, React Native, Flutter in Front-end and back-end mainly use NestJS.  
@@ -11,16 +9,11 @@ If you have any other inquiries, please email `rladbgus0516@naver.com`.
 
 # My Work Experience
 <div>
-  
-  <img width=500 src="https://github.com/Yuhyeon0516/Yuhyeon0516/assets/120432007/0e5d0ac0-fc17-4801-b8da-2e5d255c71a1" />
-
   <h2>Samsung Electronics ( 2014.11.01 ~ 2023.05.15 )</h3>
   - 삼성전자 Memory Photo Technology Team. 생산 설비 Software 유지보수 및 설비 Data 시각화
   <br/><br/>
-
-  <img width=250 src="https://github.com/Yuhyeon0516/Yuhyeon0516/assets/120432007/a3017913-c299-43ea-b5c5-18e6641242e8" />
-  <h2>Instead of me ( 2023.10.12 ~ 2024.05.01)</h3>
-  - Co-Founder of Instead of me(Software Development Agency)
+  <h2>Individual ( 2023.10.12 ~ Doing)</h3>
+  - Individual Software Engineer
 </div>
 
 <div>
